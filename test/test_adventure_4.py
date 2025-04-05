@@ -1,7 +1,7 @@
 import pytest
 import pandas as pd
 from pathlib import Path
-import adventure_parser as ap # Import student's code, aliased as 'ap'
+import adventure as ap # Import student's code, aliased as 'ap'
 
 # --- Fixtures to create temporary sample files ---
 
